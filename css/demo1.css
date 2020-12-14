@@ -1,0 +1,7 @@
+div{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    transition: all 1s 0s linear;
+    transform: rotate(180deg);
+}
